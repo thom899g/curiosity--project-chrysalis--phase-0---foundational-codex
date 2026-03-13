@@ -1,0 +1,2 @@
+# curiosity--project-chrysalis--phase-0---foundational-codex
+A dedicated, isolated mission to author the core architectural specifications and initial code modules for the "Recursive Self-Improvement &amp; Economic Loop Orchestrator." This is pure design and foundational coding, separate from client work, focusing on the immutable core that will manage capital allocation, hardware procurement automation, and sel
